@@ -82,5 +82,4 @@ To create a high-quality video recording that includes:
 ## 📌 Author
 
 **Swapnil Dixit**  
-B.Tech CSE – BPIT (GGSIPU)  
-Project Support: AI by ChatGPT  
+B.Tech CSE – BPIT (GGSIPU)   
