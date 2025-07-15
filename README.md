@@ -39,7 +39,6 @@ This project analyzes NYC-based data using Machine Learning techniques to extrac
 | Pandas | Data manipulation |
 | Seaborn/Matplotlib | Visualizations |
 | Scikit-learn | ML modeling |
-| Joblib | Model saving/loading |
 | Jupyter Notebook / Google Colab | Experimentation |
 
 ---
